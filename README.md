@@ -13,3 +13,7 @@ kabbadi
 vollyball
 running
 foodball
+Welcome to movies
+tollywood
+bollywood
+hollywood
